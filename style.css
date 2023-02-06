@@ -1,6 +1,16 @@
 html {
   background-color: black;
 }
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
 h1, h3, h5{
   font-family: "Nunito Sans", sans-serif;
   font-weight: 9000;
@@ -10,7 +20,7 @@ h1, h3, h5{
 h1 {
   font-size: 70px;
 }
-h3 {
+h3, h5 {
   font-size: 40px;
 }
 
